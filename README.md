@@ -1,4 +1,4 @@
-Como os datasets utilizados são grandes, eles não foram incluídos de forma compactada no repositório. Em vez disso, os alunos devem baixá-los manualmente das fontes indicadas abaixo.
+Como os datasets utilizados são grandes, eles foram incluídos de forma compactada no repositório. Caso, queira baixar o arquivo bruto, acesse o link abaixo:
 
 ### 📥 Como Obter os Datasets
 
