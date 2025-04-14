@@ -5,13 +5,12 @@ Caso queira baixar os arquivos compactados:
 1. Baixe o repositório completo (em formato .zip).
 2. Descompacte os arquivos no seu computador:
 
-No Windows:
-Clique com o botão direito sobre o arquivo e selecione "Extrair tudo".
-=
-No Linux/Mac:
+**No Windows:
+Clique com o botão direito sobre o arquivo e selecione "Extrair tudo".**
+
+**No Linux/Mac:
 Abra o terminal e use o comando:
-unzip nome_do_arquivo.zip
-=
+unzip nome_do_arquivo.zip**
 
 Caso você queira, pode acessar e baixar os datasets descompactados diretamente através do Box no link abaixo:
 
